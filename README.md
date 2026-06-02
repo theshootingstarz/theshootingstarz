@@ -1,5 +1,5 @@
 <div align="center">
-<img src= "https://files.catbox.moe/zb9jm6.jpeg">
+<img src= "https://github.com/theshootingstarz/theshootingstarz/blob/main/blur_edges.png?raw=true">
 
 
 
